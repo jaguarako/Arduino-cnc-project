@@ -1,3 +1,14 @@
+/* 
+This complex software code was amended by AABIDA Abderrahim  To fit Shield L293D v1 , Please mention the source of this code maker Because of the effort he spent to modify this code .
+My Email : euangarces@gmail.com
+my compte Facebook : https://www.facebook.com/Jaguar Garces
+ Mini CNC Plotter firmware, based in ATmega328pCNC https://https://github.com/jaguarako/Arduino-cnc-project/blob/master/Mini%20JaguarCNC%20Arduino.ino
+ Send GCODE to this Sketch using gctrl.pde https://https://github.com/jaguarako/Arduino-cnc-project/blob/master/FHIMMRFIHS1KKSQ.gcode
+ Convert SVG to GCODE with MakerBot Unicorn plugin for Inkscape available here https://github.com/martymcguire/inkscape-unicorn
+ 
+ More information about the Mini CNC Plotter here (german, sorry): http://www.makerblog.at/2015/02/projekt-mini-cnc-plotter-aus-alten-cddvd-laufwerken/
+  */
+
 #include <Servo.h>
 #include <AFMotor.h>
 
